@@ -1,0 +1,12 @@
+<tabs>
+    <tab
+        barColorWhenSelected="#e4ce27"
+        icon="@mipmap/cls"
+        id="@+id/tab_home"
+        title="@string/title_cls" />
+    <tab
+        barColorWhenSelected="#ed0808"
+        icon="@mipmap/home"
+        id="@+id/tab_cls"
+        title="@string/title_home" />
+</tabs>
